@@ -547,7 +547,7 @@ body {
 .flower__g-front__line {
   width: 0.3vmin;
   height: 20vmin;
-  background-image: linear-gradient(to top, transparent, #079097, transparent 100%);
+  background-image: linear-gradient(to top, transparent, #56945e, transparent 100%);
   position: relative;
 }
 .flower__g-front__leaf-wrapper {
@@ -629,8 +629,8 @@ body {
   border-radius: 100% 0% 0% 100%/100% 100% 0% 0%;
   box-shadow: inset 0 2px 1vmin hsla(184, 97%, 58%, 0.2);
   background-image: linear-gradient(to bottom left, transparent, var(--dark-color)), linear-gradient(to bottom right, #159faa 50%, transparent 50%, transparent);
-  -webkit-mask-image: linear-gradient(to bottom right, #159faa 50%, transparent 50%, transparent);
-  mask-image: linear-gradient(to bottom right, #159faa 50%, transparent 50%, transparent);
+  -webkit-mask-image: linear-gradient(to bottom right, #aa2615 50%, transparent 50%, transparent);
+  mask-image: linear-gradient(to bottom right, #2e442b 50%, transparent 50%, transparent);
 }
 .flower__g-fr {
   position: absolute;
